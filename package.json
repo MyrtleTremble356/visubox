@@ -1,0 +1,34 @@
+{
+  "name": "visubox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/visubox.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/visubox/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/visubox#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "[object Object]": "^1.0.0"
+  }
+}
